@@ -1,0 +1,5 @@
+IN A
+ADD A, 0x1
+MOV B, A
+OUT B
+JMP 0x1

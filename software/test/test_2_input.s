@@ -1,0 +1,4 @@
+IN B
+ADD B, 0x1
+OUT B
+JMP 0x1
