@@ -10,13 +10,13 @@
 SEL_A   = D4 | D7  
 SEL_B   = D5
 
-[指令说明](https://github.com/wuxx/TD4-4BIT-CPU/blob/master/doc/instruction.md)
 
 #### 自己动手做CPU 之 TD4 PCB及元器件 ####
 #### 自己动手做CPU 之 TD4 焊接测试 ####
 #### 自己动手做CPU 之 TD4 后记 ####
 
-TD4套件(包含PCB及所有元器件)：
+[指令说明](https://github.com/wuxx/TD4-4BIT-CPU/blob/master/doc/instruction.md)
+TD4套件(包含PCB及所有元器件)  
 https://item.taobao.com/item.htm?spm=a230r.1.14.1.207040ddEhBO68&id=565392942677&ns=1&abbucket=10#detail
 
 reference:  
