@@ -17,7 +17,7 @@ SEL_B   = D5
 
 reference0:  
 [指令格式](https://github.com/wuxx/TD4-4BIT-CPU/blob/master/doc/instruction.md)  
-TD4套件(包含PCB及所有元器件)  
+套件  
 https://item.taobao.com/item.htm?spm=a230r.1.14.1.207040ddEhBO68&id=565392942677&ns=1&abbucket=10#detail
 
 reference1:  
