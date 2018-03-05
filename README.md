@@ -24,6 +24,16 @@ B.  注意芯片插座，8位拨码开关和4位拨码开关的焊接方向
 #### 自己动手做CPU 之 TD4 焊接测试2-[测试] ####
 
 #### 自己动手做CPU 之 TD4 后记 ####
+架构  
+1. RAM  
+2. 4bit -> 8bit  
+3. ALU  
+4. 中断  
+
+指令  
+1. 算术逻辑指令  
+2. 寻址方式（立即数寻址、相对寻址、寄存器寻址等）  
+3. call push pop  
 
 reference0:  
 [指令格式](https://github.com/wuxx/TD4-4BIT-CPU/blob/master/doc/instruction.md)  
