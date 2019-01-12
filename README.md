@@ -1,3 +1,6 @@
+![TD4](https://github.com/wuxx/TD4-4BIT-CPU/blob/master/
+doc/TD4.jpg)
+
 #### [自己动手做CPU 之 TD4 前言](https://www.bilibili.com/video/av19607028/) ####
 #### [自己动手做CPU 之 TD4 原理分析0-系统综述](https://www.bilibili.com/video/av19608406/) ####
 #### [自己动手做CPU 之 TD4 原理分析1-[时钟、复位]](https://www.bilibili.com/video/av19609356/) ####
