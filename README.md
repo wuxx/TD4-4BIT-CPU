@@ -39,7 +39,7 @@ B.  注意芯片插座，8位拨码开关和4位拨码开关的焊接方向
 
 reference0:  
 [指令格式](https://github.com/wuxx/TD4-4BIT-CPU/blob/master/doc/instruction.md)  
-[TD4套件](https://item.taobao.com/item.htm?spm=a230r.1.14.1.207040ddEhBO68&id=565392942677&ns=1&abbucket=10#detail)
+[TD4套件](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-21291591846.20.3ee420f8z442NM&id=586081308296)
 
 reference1:  
 https://hackaday.io/project/8442-ttl-based-4-bit-cpu  
